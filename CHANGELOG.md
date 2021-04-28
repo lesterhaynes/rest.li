@@ -13,6 +13,8 @@ When updating the changelog, remember to be very clear about what behavior has c
 and what APIs have changed, if applicable.
 
 ## [Unreleased]
+
+## [29.18.2] - 2021-04-27
 - Add debug log for cluster subsetting updates
 
 ## [29.18.1] - 2021-04-22
@@ -4918,7 +4920,8 @@ patch operations can re-use these classes for generating patch messages.
 
 ## [0.14.1]
 
-[Unreleased]: https://github.com/linkedin/rest.li/compare/v29.18.1...master
+[Unreleased]: https://github.com/linkedin/rest.li/compare/v29.18.2...master
+[29.18.2]: https://github.com/linkedin/rest.li/compare/v29.18.1...v29.18.2
 [29.18.1]: https://github.com/linkedin/rest.li/compare/v29.18.0...v29.18.1
 [29.18.0]: https://github.com/linkedin/rest.li/compare/v29.17.4...v29.18.0
 [29.17.4]: https://github.com/linkedin/rest.li/compare/v29.17.3...v29.17.4
